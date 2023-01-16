@@ -1,0 +1,16 @@
+.img-inicio {
+    max-width: 70px;
+    height: 60px;
+}
+
+.img-footer {
+    max-width: 70px;
+    height: 50px;
+    margin: 20px;
+}
+
+.img-proyecto {
+    width: 400px;
+    max-height: 300px;
+    margin: 40px;
+}
